@@ -1,0 +1,58 @@
+.logo img
+{
+    width: 150px;
+    height: 70px;
+}
+.ligne1 h3:hover
+{
+    text-decoration: underline;
+}
+.ligne2 p:hover
+{
+    text-decoration: underline;
+}
+#p1
+{
+    position: absolute;
+    left: 200px;
+}
+#p2
+{
+    position: absolute;
+    left: 340px;
+}
+#p3
+{
+    position: absolute;
+    left: 480px;
+}
+#p4
+{
+    position: absolute;
+    left: 620px;
+}
+#l1
+{
+    position: absolute;
+    left: 20px; 
+}
+#l2
+{
+    position: absolute;
+    left: 70px;  
+}
+#l3
+{
+    position: absolute;
+    left: 90px;  
+} 
+#l4
+{
+    position: absolute;
+    left: 190px;  
+}
+#l5
+{
+    position: absolute;
+    left: 220px;  
+}
